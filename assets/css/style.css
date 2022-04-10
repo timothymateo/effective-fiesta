@@ -1,4 +1,4 @@
-/* Resets the box size of every element */
+/* Resets the box size of every element on the page */
 * {
     box-sizing: border-box;
     padding: 0;
